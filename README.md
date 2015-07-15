@@ -2,6 +2,7 @@
 
 Ejemplos
 
+* BMI Calculator (Body Mass Index)
 * LoginCliente (Cliente Rest)
 * Reminders (Guarda notas usando SQLite)
 * TestMP (Grafico de Barras usando MPAndroidChart)
