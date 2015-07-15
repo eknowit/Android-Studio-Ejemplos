@@ -3,6 +3,7 @@
 Ejemplos
 
 * BMI Calculator (Body Mass Index)
+* SimpleFlashLight (Manejo de Hardware - Camara)
 * LoginCliente (Cliente Rest)
 * Reminders (Guarda notas usando SQLite)
 * TestMP (Grafico de Barras usando MPAndroidChart)
